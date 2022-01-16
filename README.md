@@ -2,7 +2,7 @@
 
 ### WEBXY
 
-Deploy to heroku : https://heroku.com/deploy?template=https://github.com/adventurousmallu/webxy/
+Deploy to heroku : https://heroku.com/deploy?template=https://github.com/ravana69/webxxy
 
 
 You can access any website in the wall through this proxy website. This website serves as a forwarding function. Using heroku's application hosting service is completely free.
